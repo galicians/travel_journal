@@ -4,7 +4,7 @@ export default function Header() {
     <header className="header-traveljournal">
         <nav className="navBar-traveljournal">
             <img className="logo" src={ReactLogo} alt="logo website"/>
-            <span>my travel journal.</span>
+            <h1 className='textLogo'>my travel journal.</h1>
         </nav>
         </header>
     )
